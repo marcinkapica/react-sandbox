@@ -1,6 +1,6 @@
 # React tic-tac-toe
 
-A React tic-tac-toe game coded by following [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
+A React tic-tac-toe game coded by following [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
